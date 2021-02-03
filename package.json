@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shoppinglist Electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "geof.hoffman",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.2.2"
+  }
+}
